@@ -1,0 +1,8 @@
+{
+    "name": "corecontroller-service",
+    "version": "1.0.829",
+    "private": false,
+    "environment": "production",
+    "build_id": 746,
+    "allow_public_access": true
+}
